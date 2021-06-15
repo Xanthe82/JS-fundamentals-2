@@ -1,9 +1,9 @@
 "use strict";
 
-/* 
+
 function describeCountry(country, population, capitalCity) {
-    return `${country} has ${population} million people and its capital city is ${capitalCity}`;
-}
+    return `${country} has ${population} million people and its capital city is ${capitalCity};
+};
 
 const c1 = describeCountry('England', 6, 'London');
 const c2 = describeCountry('Sweden', 7, 'Stockholm');
@@ -165,4 +165,4 @@ for (let i = 0; i < populations.length; i++) {
     const perc = (percentageOfWorld1(populations[i]));
     percentages2.push(perc);
 }
-console.log(percentages2); */
+console.log(percentages2);
